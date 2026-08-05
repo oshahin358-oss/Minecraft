@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mineflayer": "latest",
+    "mineflayer-pathfinder": "latest",
+    "mineflayer-schem": "latest",
+    "prismarine-schematic": "latest",
+    "prismarine-nbt": "latest",
+    "vec3": "latest"
+  }
+}
